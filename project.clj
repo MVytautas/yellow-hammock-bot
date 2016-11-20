@@ -12,6 +12,8 @@
                  [ring "1.5.0"]
                  [ring/ring-defaults "0.2.1"]
                  [compojure "1.5.1"]
+                 [clj-http "2.3.0"]
+                 [org.clojure/data.json "0.2.6"]
                  [hiccup "1.0.5"]
                  [yogthos/config "0.8"]
                  [org.clojure/clojurescript "1.9.229"
